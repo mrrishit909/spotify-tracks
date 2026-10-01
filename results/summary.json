@@ -1,0 +1,138 @@
+{
+  "rows": 114000,
+  "unique_tracks": 89741,
+  "genres": 114,
+  "rows_per_genre": [
+    1000
+  ],
+  "tracks_in_2plus_genres": 16299,
+  "max_genres_for_one_track": 9,
+  "exact_duplicate_rows": 450,
+  "zero_popularity_share": 0.1053,
+  "no_beat_detected": 157,
+  "missing_text_rows": 1,
+  "genre_popularity_top": {
+    "pop": 66.0,
+    "pop-film": 60.0,
+    "k-pop": 60.0,
+    "hip-hop": 58.0,
+    "chill": 57.0,
+    "metal": 57.0,
+    "grunge": 55.0,
+    "sad": 54.0
+  },
+  "genre_popularity_bottom": {
+    "dance": 1.0,
+    "latin": 0.0,
+    "soul": 0.0,
+    "jazz": 0.0,
+    "romance": 0.0,
+    "country": 0.0,
+    "rock": 0.0,
+    "iranian": 0.0
+  },
+  "genres_with_median_zero": 7,
+  "best_copy_tracks": 81344,
+  "best_copy_genre_top": {
+    "pop": 68.0,
+    "dance": 67.0,
+    "electro": 66.0,
+    "house": 64.0,
+    "metal": 63.0,
+    "edm": 62.0,
+    "pop-film": 60.0,
+    "hip-hop": 60.0
+  },
+  "best_copy_genre_bottom": {
+    "chicago-house": 10.0,
+    "detroit-techno": 8.0,
+    "rock": 5.0,
+    "classical": 5.0,
+    "country": 2.0,
+    "iranian": 0.0,
+    "romance": 0.0,
+    "latin": 0.0
+  },
+  "best_copy_genres_with_median_zero": 3,
+  "spearman_pooled_best_copy": {
+    "danceability": 0.084,
+    "energy": -0.034,
+    "valence": 0.021,
+    "acousticness": 0.025,
+    "instrumentalness": -0.192,
+    "speechiness": -0.092,
+    "liveness": -0.028,
+    "loudness": 0.095,
+    "tempo": -0.001,
+    "duration_min": -0.028
+  },
+  "spearman_within_genre_best_copy": {
+    "danceability": 0.029,
+    "energy": -0.015,
+    "valence": -0.006,
+    "acousticness": -0.007,
+    "instrumentalness": -0.036,
+    "speechiness": -0.032,
+    "liveness": -0.024,
+    "loudness": 0.041,
+    "tempo": -0.001,
+    "duration_min": -0.016
+  },
+  "copy_share_in_zero_median_genres": {
+    "latin": 0.61,
+    "soul": 0.55,
+    "jazz": 0.62,
+    "romance": 0.1,
+    "country": 0.55,
+    "rock": 0.67,
+    "iranian": 0.06
+  },
+  "spearman_pooled": {
+    "danceability": 0.055,
+    "energy": -0.016,
+    "valence": -0.011,
+    "acousticness": 0.01,
+    "instrumentalness": -0.124,
+    "speechiness": -0.067,
+    "liveness": -0.011,
+    "loudness": 0.067,
+    "tempo": 0.008,
+    "duration_min": 0.013
+  },
+  "spearman_within_genre_mean": {
+    "danceability": 0.025,
+    "energy": -0.023,
+    "valence": -0.017,
+    "acousticness": 0.001,
+    "instrumentalness": -0.018,
+    "speechiness": -0.025,
+    "liveness": -0.016,
+    "loudness": 0.021,
+    "tempo": 0.005,
+    "duration_min": 0.008
+  },
+  "within_genre_same_sign_share": {
+    "danceability": 0.62,
+    "energy": 0.62,
+    "valence": 0.54,
+    "acousticness": 0.57,
+    "instrumentalness": 0.62,
+    "speechiness": 0.68,
+    "liveness": 0.59,
+    "loudness": 0.56,
+    "tempo": 0.56,
+    "duration_min": 0.54
+  },
+  "zero_pop_share_if_song_has_other_copies": 0.418,
+  "zero_pop_share_if_unique_song": 0.052,
+  "songs_with_multiple_track_ids": 13054,
+  "explicit_median_popularity": {
+    "False": 33.0,
+    "True": 37.0
+  },
+  "explicit_minus_clean_within_genre": {
+    "median": 1.0,
+    "genres": 72,
+    "share_positive": 0.61
+  }
+}
